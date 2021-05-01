@@ -1,4 +1,4 @@
-# my-project
+# dnpicture
 
 ## Project setup
 ```
@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev:mp-weixin
 ```
 
 ### Compiles and minifies for production
